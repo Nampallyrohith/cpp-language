@@ -1,0 +1,11 @@
+#include <iostream>
+ using namespace std;
+ int  main()
+ {
+ 	float prod,n1,n2;    // product of n1 and n2
+ 	cout<<"enter any  two decimal number\n";
+ 	cin>>n1>>n2;
+ 	prod=n1*n2;
+ 	cout <<prod;
+ 	return 0;
+ }
